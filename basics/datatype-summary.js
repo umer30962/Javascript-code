@@ -40,7 +40,7 @@ let anotherId = Symbol(123)
 
 
 
-// let Heros1 = ["superman","spiderman","batman"]  // arrays
+ let Heros1 = ["superman","spiderman","batman"]  // arrays
 
 
 // let Heros2 = {
@@ -57,3 +57,5 @@ const MyFunction = function(){
 }
 
 console.log(typeof MyFunction);
+
+console.log(typeof Heros1)
